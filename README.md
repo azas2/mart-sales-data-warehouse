@@ -33,7 +33,7 @@
     <li><strong>Territory Dimension</strong> 🌍:<br>
         Attributes: Territory ID, Territory Name, Region, Country.<br>
         Tracks changes using SCD Type 2.<br>
-        <img src="/mnt/data/territory_dimension_image.png" alt="Territory Dimension Visualization">
+        <img src="image/territory_dim.png" alt="Territory Dimension Visualization">
     </li>
 </ul>
 
