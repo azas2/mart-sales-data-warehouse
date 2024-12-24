@@ -15,24 +15,34 @@
 
 <h3>Dimensions</h3>
 <ul>
-    <li><strong>Product Dimension</strong>:<br>
+    <li><strong>Product Dimension</strong> 🛍️:<br>
         Attributes: Product ID, Product Name, Product Category, Product Subcategory, Product Price.<br>
-        Tracks changes using SCD Type 2.</li>
-    <li><strong>Date Dimension</strong>:<br>
+        Tracks changes using SCD Type 2.<br>
+        <img src="/mnt/data/product_dimension_image.png" alt="Product Dimension Visualization">
+    </li>
+    <li><strong>Date Dimension</strong> 📅:<br>
         Attributes: Date Key, Full Date, Year, Quarter, Month, Week, Day.<br>
-        Preloaded with a complete range of dates.</li>
-    <li><strong>Customer Dimension</strong>:<br>
+        Preloaded with a complete range of dates.<br>
+        <img src="/mnt/data/date_dimension_image.png" alt="Date Dimension Visualization">
+    </li>
+    <li><strong>Customer Dimension</strong> 🧍‍♂️🧍‍♀️:<br>
         Attributes: Customer ID, Full Name, Email, Phone, Address.<br>
-        Tracks changes using SCD Type 1.</li>
-    <li><strong>Territory Dimension</strong>:<br>
+        Tracks changes using SCD Type 1.<br>
+        <img src="/mnt/data/customer_dimension_image.png" alt="Customer Dimension Visualization">
+    </li>
+    <li><strong>Territory Dimension</strong> 🌍:<br>
         Attributes: Territory ID, Territory Name, Region, Country.<br>
-        Tracks changes using SCD Type 2.</li>
+        Tracks changes using SCD Type 2.<br>
+        <img src="/mnt/data/territory_dimension_image.png" alt="Territory Dimension Visualization">
+    </li>
 </ul>
 
 <h3>Fact Table</h3>
-<p><strong>Sales Fact</strong>:<br>
+<p><strong>Sales Fact</strong> 📈:<br>
     Measures: Sales Amount, Quantity, Discount, Tax.<br>
-    Foreign Keys: Product ID, Date Key, Customer ID, Territory ID.</p>
+    Foreign Keys: Product ID, Date Key, Customer ID, Territory ID.<br>
+    <img src="/mnt/data/sales_fact_image.png" alt="Sales Fact Table Visualization">
+</p>
 
 <h2>ETL Process</h2>
 <h3>Tools and Techniques</h3>
