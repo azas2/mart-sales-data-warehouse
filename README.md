@@ -18,7 +18,7 @@
     <li><strong>Product Dimension</strong> 🛍️:<br>
         Attributes: Product ID, Product Name, Product Category, Product Subcategory, Product Price.<br>
         Tracks changes using SCD Type 2.<br>
-        <img src="image/Product_dim.png" alt="Product Dimension Visualization">
+        <img src="image/customer.png" alt="Product Dimension Visualization">
     </li>
     <li><strong>Date Dimension</strong> 📅:<br>
         Attributes: Date Key, Full Date, Year, Quarter, Month, Week, Day.<br>
