@@ -23,7 +23,7 @@
     <li><strong>Date Dimension</strong> 📅:<br>
         Attributes: Date Key, Full Date, Year, Quarter, Month, Week, Day.<br>
         Preloaded with a complete range of dates.<br>
-        <img src="/mnt/data/date_dimension_image.png" alt="Date Dimension Visualization">
+        <img src="image/date_dim.png" alt="Date Dimension Visualization">
     </li>
     <li><strong>Customer Dimension</strong> 🧍‍♂️🧍‍♀️:<br>
         Attributes: Customer ID, Full Name, Email, Phone, Address.<br>
