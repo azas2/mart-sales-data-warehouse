@@ -28,7 +28,7 @@
     <li><strong>Customer Dimension</strong> 🧍‍♂️🧍‍♀️:<br>
         Attributes: Customer ID, Full Name, Email, Phone, Address.<br>
         Tracks changes using SCD Type 1.<br>
-        <img src="/mnt/data/customer_dimension_image.png" alt="Customer Dimension Visualization">
+        <img src="image/customer.png" alt="Customer Dimension Visualization">
     </li>
     <li><strong>Territory Dimension</strong> 🌍:<br>
         Attributes: Territory ID, Territory Name, Region, Country.<br>
