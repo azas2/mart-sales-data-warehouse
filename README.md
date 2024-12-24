@@ -46,7 +46,7 @@
 
 <h3>DWH Schema</h3>
 <p>Below is the schema for the Data Warehouse, which includes the dimension and fact tables:</p>
-<img src="/mnt/data/dwh_schema_image.png" alt="Data Warehouse Schema Visualization">
+<img src="image/dwh_schema.png" alt="Data Warehouse Schema Visualization">
 
 <h2>ETL Process</h2>
 <h3>Tools and Techniques</h3>
