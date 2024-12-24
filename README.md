@@ -95,11 +95,3 @@
     <li><strong>Optimized Loading</strong>: Incremental load minimizes data processing time.</li>
 </ul>
 
-<h2>CV Entry</h2>
-<p><strong>Project Name</strong>: Mart Sales Data Warehouse<br>
-    <strong>Description</strong>: Designed and implemented a Data Warehouse for mart sales analysis using AdventureWorks database. Built ETL processes in SSIS with incremental loading and Slowly Changing Dimensions (SCD) Type 1 and Type 2. Developed star schema with Product, Date, Customer, and Territory dimensions and a Sales fact table. Enabled efficient querying and reporting.<br>
-    <strong>Key Tools</strong>: SQL Server, SSIS, AdventureWorks, SCD Type 1 & Type 2, Incremental Load.</p>
-
-<div class="image-container">
-    <img src="/mnt/data/A_professional_visualization_of_a_data_warehouse_p.png" alt="Data Warehouse Visualization">
-</div>
