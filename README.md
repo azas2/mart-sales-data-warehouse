@@ -41,7 +41,7 @@
 <p><strong>Sales Fact</strong> 📈:<br>
     Measures: Sales Amount, Quantity, Discount, Tax.<br>
     Foreign Keys: Product ID, Date Key, Customer ID, Territory ID.<br>
-    <img src="/mnt/data/sales_fact_image.png" alt="Sales Fact Table Visualization">
+    <img src="image/fact_sales.png" alt="Sales Fact Table Visualization">
 </p>
 
 <h3>DWH Schema</h3>
